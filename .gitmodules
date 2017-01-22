@@ -1,0 +1,3 @@
+[submodule "nodejs-job-search"]
+	path = nodejs-job-search
+	url = https://github.com/marioluan/nodejs-job-search
